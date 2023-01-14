@@ -131,6 +131,7 @@
 			- The proposed model is able to generate more accurate and informative captions by making use of both visual and textual context, which provides additional information about the image and the captioning task.
 			- The model is able to incorporate both visual and textual context in a seamless way, leveraging pre-trained models and then fine-tuning them to the image captioning task.
 	- ### DeeCap: Dynamic Early Exiting for Efficient Image Captioning
+	  collapsed:: true
 		- PDF: ![](../assets/Fei_DeeCap_Dynamic_Early_Exiting_for_Efficient_Image_Captioning_CVPR_2022_paper_1673655247547_0.pdf)
 		- #### Key Ideas
 			- Introduce a new method for efficient image captioning called DeeCap (Dynamic Early Exiting) that uses dynamic early exiting to reduce the computational cost of caption generation.
@@ -139,5 +140,3 @@
 			- Show that the proposed DeeCap model outperforms existing methods on the MS-COCO dataset in terms of both automatic evaluation metrics and human evaluation, while also being more computationally efficient.
 			- The proposed model is able to generate accurate captions while reducing computational cost by dynamically adjusting the number of generated words, depending on the confidence of the generated words.
 			- The model is able to generate captions that are as accurate as traditional methods while being more efficient, making it more practical for real-world applications.
--
-- Test iPad
