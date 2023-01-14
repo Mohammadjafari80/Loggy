@@ -22,6 +22,7 @@
 		- #### Key Ideas
 			- Introduce a new training method for image captioning models that assigns credit for each word in the vocabulary, rather than just for the final caption generated.
 			- Propose a new vocabulary-wide credit assignment (VWCA) method that uses a reinforced sampling mechanism to assign credit to each word in the vocabulary.
+			- Reduce the time cost of metrics calculation in VCST, we propose fast algorithms for computing the CIDEr-D metric and the BLEU metric. With our fast computing methods, the time costs for computing CIDEr-D and BLEU-4 are reduced by 97% and 72%, respectively.
 			- Show that the VWCA method improves the performance of image captioning models on the MS-COCO dataset, compared to the traditional methods of credit assignment.
 			- Show that the VWCA method is able to generate more diverse captions, and also able to learn from more diverse captions in the training data, which helps the model to learn a more comprehensive representation of the captions.
 	- ### TCIC: Theme Concepts Learning Cross Language and Vision for Image Captioning
