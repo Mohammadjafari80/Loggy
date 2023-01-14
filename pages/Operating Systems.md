@@ -106,8 +106,6 @@
 			- Queuing Diagram represents queues,
 			  resources, and flows
 				- ((6383fe5b-daf1-462f-9c50-b54084d32c08))
-			-
-		-
 	- ### Schedulers
 		- **Short-Term (ST) Scheduler** (CPU Scheduler)
 			- Selects which process should be executed next
