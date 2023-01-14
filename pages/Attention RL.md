@@ -9,6 +9,7 @@
 			- The proposed model is able to generate more diverse and accurate captions by making use of off-policy learning, which allows the model to explore a wider range of possible captions, while still maintaining their accuracy.
 			- max-CIDEr
 			- The model is able to balance the trade-off between accuracy and diversity, which is important for human-oriented image captioning.
+			- ![2023-01-14-19-30-02.jpeg](../assets/2023-01-14-19-30-02.jpeg)
 	- ### Image Captioning with multi-level similarity-guided semantic matching
 		- PDF: ![1-s2.0-S2468502X21000590-main.pdf](../assets/1-s2.0-S2468502X21000590-main_1673655552651_0.pdf)
 		- #### Key Ideas
