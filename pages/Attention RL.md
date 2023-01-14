@@ -36,7 +36,6 @@
 			- Show that the TCIC approach outperforms existing image captioning methods on the MS-COCO dataset in terms of both automatic evaluation metrics and human evaluation.
 			- Show that the TCIC method is able to learn more comprehensive representations of the captions by learning theme concepts that go beyond object recognition and to generate more diverse captions.
 			- ((63c2d570-579a-41a4-8b37-b4b43f2db791))
-			-
 	- ### Automatic Report Generation for Chest X-Ray Images via Adversarial Reinforcement Learning
 		- PDF: ![Automatic_Report_Generation_for_Chest_X-Ray_Images.pdf](../assets/Automatic_Report_Generation_for_Chest_X-Ray_Images_1673655498650_0.pdf)
 		- #### Key Ideas
@@ -46,6 +45,8 @@
 			- The generator and discriminator are trained using adversarial RL, where the generator tries to generate reports that can fool the discriminator, while the discriminator tries to correctly identify the generated reports as real or fake.
 			- Show that the proposed RL-based model outperforms existing methods in terms of both automatic evaluation metrics and human evaluation on the ChestX-ray14 dataset.
 			- The model is able to generate more accurate and informative diagnostic reports, and it can be applied to other medical imaging modalities as well.
+			- ((63c2d6dd-dcb2-4c11-a96a-95ce5c4b02ae))
+			-
 	- ### Fast Sequence Generation with Multi-Agent Reinforcement Learning
 		- PDF: ![2101.09698.pdf](../assets/2101.09698_1673655432309_0.pdf)
 		- #### Key Ideas
