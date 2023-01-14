@@ -46,7 +46,7 @@
 			- Show that the proposed RL-based model outperforms existing methods in terms of both automatic evaluation metrics and human evaluation on the ChestX-ray14 dataset.
 			- The model is able to generate more accurate and informative diagnostic reports, and it can be applied to other medical imaging modalities as well.
 			- ((63c2d6dd-dcb2-4c11-a96a-95ce5c4b02ae))
-			-
+			- ((63c2d729-7fbe-4934-bd3a-b8f5409effff))
 	- ### Fast Sequence Generation with Multi-Agent Reinforcement Learning
 		- PDF: ![2101.09698.pdf](../assets/2101.09698_1673655432309_0.pdf)
 		- #### Key Ideas

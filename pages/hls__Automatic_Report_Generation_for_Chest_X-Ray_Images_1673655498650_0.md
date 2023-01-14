@@ -8,3 +8,10 @@ file-path:: ../assets/Automatic_Report_Generation_for_Chest_X-Ray_Images_1673655
   id:: 63c2d6dd-dcb2-4c11-a96a-95ce5c4b02ae
   hl-type:: area
   hl-stamp:: 1673713372342
+- [:span]
+  ls-type:: annotation
+  hl-page:: 5
+  hl-color:: yellow
+  id:: 63c2d729-7fbe-4934-bd3a-b8f5409effff
+  hl-type:: area
+  hl-stamp:: 1673713448007
