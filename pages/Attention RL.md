@@ -101,7 +101,6 @@
 			- The model is able to leverage the pre-trained GPT-2 model's language understanding capabilities to generate more accurate and informative captions and the visual-language embedding allows it to incorporate visual information for better performance.
 			- The proposed model is able to adapt to new image captioning tasks with a small amount of data, which makes it data-efficient and more practical for real-world applications.
 	- ### Semantic Concepts into End-to-End Image Captioning
-	  collapsed:: true
 		- PDF: ![Fang_Injecting_Semantic_Concepts_Into_End-to-End_Image_Captioning_CVPR_2022_paper.pdf](../assets/Fang_Injecting_Semantic_Concepts_Into_End-to-End_Image_Captioning_CVPR_2022_paper_1673655315188_0.pdf)
 		- #### Key Ideas
 			- Introduce a new method for injecting semantic concepts into end-to-end image captioning models to improve the accuracy and informativeness of the generated captions.
@@ -110,7 +109,6 @@
 			- Show that the proposed model outperforms existing methods on the MS-COCO and Flickr30k datasets in terms of both automatic evaluation metrics and human evaluation.
 			- The proposed model is able to generate more accurate and informative captions by making use of semantic concepts, which provide additional information about the image and guide the caption generation process.
 	- ### Beyond a Pre-Trained Object Detector: Cross-Modal Textual and Visual Context for Image Captioning
-	  collapsed:: true
 		- PDF: ![Kuo_Beyond_a_Pre-Trained_Object_Detector_Cross-Modal_Textual_and_Visual_Context_CVPR_2022_paper.pdf](../assets/Kuo_Beyond_a_Pre-Trained_Object_Detector_Cross-Modal_Textual_and_Visual_Context_CVPR_2022_paper_1673655283262_0.pdf)
 		- #### Key Ideas
 			- Introduce a new method for image captioning that incorporates both visual and textual context to generate more accurate and informative captions.
@@ -120,7 +118,6 @@
 			- The proposed model is able to generate more accurate and informative captions by making use of both visual and textual context, which provides additional information about the image and the captioning task.
 			- The model is able to incorporate both visual and textual context in a seamless way, leveraging pre-trained models and then fine-tuning them to the image captioning task.
 	- ### DeeCap: Dynamic Early Exiting for Efficient Image Captioning
-	  collapsed:: true
 		- PDF: ![](../assets/Fei_DeeCap_Dynamic_Early_Exiting_for_Efficient_Image_Captioning_CVPR_2022_paper_1673655247547_0.pdf)
 		- #### Key Ideas
 			- Introduce a new method for efficient image captioning called DeeCap (Dynamic Early Exiting) that uses dynamic early exiting to reduce the computational cost of caption generation.
