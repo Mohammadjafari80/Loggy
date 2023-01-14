@@ -7,7 +7,7 @@
 			- The model uses a reward function that is designed to encourage the model to generate diverse captions that are also consistent with the image and human-generated captions.
 			- Show that the proposed POL model outperforms existing methods on the MS-COCO dataset in terms of both automatic evaluation metrics and human evaluation.
 			- The proposed model is able to generate more diverse and accurate captions by making use of off-policy learning, which allows the model to explore a wider range of possible captions, while still maintaining their accuracy.
-		- The model is able to balance the trade-off between accuracy and diversity, which is important for human-oriented image captioning.
+			- The model is able to balance the trade-off between accuracy and diversity, which is important for human-oriented image captioning.
 	- ### Image Captioning with multi-level similarity-guided semantic matching
 		- PDF: ![1-s2.0-S2468502X21000590-main.pdf](../assets/1-s2.0-S2468502X21000590-main_1673655552651_0.pdf)
 		- #### Key Ideas
