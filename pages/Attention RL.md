@@ -1,5 +1,6 @@
 - ## Literature Review
 	- ### Partial Off-policy Learning: Balance Accuracy and Diversity for Human-Oriented Image Captioning
+	  collapsed:: true
 		- PDF: ![Shi_Partial_Off-Policy_Learning_Balance_Accuracy_and_Diversity_for_Human-Oriented_Image_ICCV_2021_paper.pdf](../assets/Shi_Partial_Off-Policy_Learning_Balance_Accuracy_and_Diversity_for_Human-Oriented_Image_ICCV_2021_paper_1673655569300_0.pdf)
 		- #### Key Ideas
 			- Introduce a new method for image captioning called Partial Off-policy Learning (POL) that balance the accuracy and diversity of the generated captions.
@@ -11,6 +12,7 @@
 			- The model is able to balance the trade-off between accuracy and diversity, which is important for human-oriented image captioning.
 			- ![2023-01-14-19-30-02.jpeg](../assets/2023-01-14-19-30-02.jpeg)
 	- ### Image Captioning with multi-level similarity-guided semantic matching
+	  collapsed:: true
 		- PDF: ![1-s2.0-S2468502X21000590-main.pdf](../assets/1-s2.0-S2468502X21000590-main_1673655552651_0.pdf)
 		- #### Key Ideas
 			- Using a multi-level similarity-guided semantic matching approach that captures both global and local semantic similarities between the image and caption to generate more accurate and informative captions.
@@ -18,6 +20,7 @@
 			- Showing the effectiveness of the proposed approach through experiments on the MS-COCO dataset and comparing the performance with the state-of-the-art models, achieving better results in both automatic evaluation metrics and human evaluation.
 			- ((63c2d402-559f-4b65-8f44-ab4675b7e73d))
 	- ### Vocabulary-Wide Credit Assignment for Training Image Captioning Models
+	  collapsed:: true
 		- PDF: ![caption_tip.pdf](../assets/caption_tip_1673655535032_0.pdf)
 		- #### Key Ideas
 			- Introduce a new training method for image captioning models that assigns credit for each word in the vocabulary, rather than just for the final caption generated.
@@ -27,6 +30,7 @@
 			- Show that the VWCA method is able to generate more diverse captions, and also able to learn from more diverse captions in the training data, which helps the model to learn a more comprehensive representation of the captions.
 			- ((63c2d50f-546e-4992-b02d-2c06411cf1ff))
 	- ### TCIC: Theme Concepts Learning Cross Language and Vision for Image Captioning
+	  collapsed:: true
 		- PDF: ![2106.10936.pdf](../assets/2106.10936_1673655520797_0.pdf)
 		- #### Key Ideas
 			- Introduce a new image captioning method that learns to associate theme concepts from a visual scene with the corresponding textual descriptions.
@@ -37,6 +41,7 @@
 			- Show that the TCIC method is able to learn more comprehensive representations of the captions by learning theme concepts that go beyond object recognition and to generate more diverse captions.
 			- ((63c2d570-579a-41a4-8b37-b4b43f2db791))
 	- ### Automatic Report Generation for Chest X-Ray Images via Adversarial Reinforcement Learning
+	  collapsed:: true
 		- PDF: ![Automatic_Report_Generation_for_Chest_X-Ray_Images.pdf](../assets/Automatic_Report_Generation_for_Chest_X-Ray_Images_1673655498650_0.pdf)
 		- #### Key Ideas
 			- Introduce a new method for generating diagnostic reports for chest X-ray images using adversarial reinforcement learning (RL).
@@ -48,6 +53,7 @@
 			- ((63c2d6dd-dcb2-4c11-a96a-95ce5c4b02ae))
 			- ((63c2d729-7fbe-4934-bd3a-b8f5409effff))
 	- ### Fast Sequence Generation with Multi-Agent Reinforcement Learning
+	  collapsed:: true
 		- PDF: ![2101.09698.pdf](../assets/2101.09698_1673655432309_0.pdf)
 		- #### Key Ideas
 			- Introduce a new method for fast sequence generation using multi-agent reinforcement learning (RL).
@@ -57,6 +63,7 @@
 			- Show that the proposed model outperforms existing methods on several benchmark datasets for natural language processing tasks such as language modeling, machine translation, and summarization.
 			- The proposed model is also able to handle very long sequences and generate them much faster than traditional methods.
 	- ### Multi-Level Policy and Reward Reinforcement Learning for Image Captioning
+	  collapsed:: true
 		- PDF: ![0114.pdf](../assets/0114_1673655646990_0.pdf)
 		- #### Key Ideas
 			- Introduce a new method for image captioning using multi-level policy and reward reinforcement learning (RL).
@@ -67,6 +74,7 @@
 			- Show that the proposed multi-level RL-based model outperforms existing methods on the MS-COCO dataset in terms of both automatic evaluation metrics and human evaluation.
 			- The proposed model is able to generate more accurate and informative captions by making use of the multi-level policy and reward structure, which allows for a more fine-grained control of the caption generation process.
 	- ### Remote sensing image captioning via Variational Autoencoder and Reinforcement Learning
+	  collapsed:: true
 		- PDF: ![shen2020.pdf](../assets/shen2020_1673655383571_0.pdf)
 		- #### Key Ideas
 			- Introduce a new method for remote sensing image captioning that combines the use of Variational Autoencoder (VAE) and Reinforcement Learning (RL).
@@ -76,6 +84,7 @@
 			- The proposed model is able to generate more accurate and informative captions by making use of VAE to extract features from the images and RL to guide the caption generation process.
 			- The model is able to handle remote sensing images that have different characteristics than natural images and generate captions that are more relevant to the remote sensing context.
 	- ### Human Consensus-Oriented Image Captioning
+	  collapsed:: true
 		- PDF: ![0092.pdf](../assets/0092_1673655375150_0.pdf)
 		- #### Key Ideas
 			- Introduce a new method for image captioning that focuses on generating captions that align with human consensus.
@@ -85,6 +94,7 @@
 			- Show that the proposed model outperforms existing methods on the MS-COCO and Flickr30k datasets in terms of both automatic evaluation metrics and human evaluation.
 			- The proposed model is able to generate captions that are more similar to human-generated captions and aligns with human consensus, which makes the generated captions more accurate, informative, and natural.
 	- ### S2 Transformer for Image Captioning
+	  collapsed:: true
 		- PDF: ![0224.pdf](../assets/0224_1673655341944_0.pdf)
 		- #### Key Ideas
 			- Introduce a new method for image captioning that uses the S2 Transformer architecture.
@@ -93,6 +103,7 @@
 			- Show that the proposed S2 Transformer-based model outperforms existing methods on the MS-COCO dataset in terms of both automatic evaluation metrics and human evaluation.
 			- The proposed model is able to generate more accurate and informative captions by making use of the S2 Transformer architecture, which allows for better handling of variable-length sequences and more fine-grained control of the caption generation process.
 	- ### VisualGPT: Data-Efficient Adaptation of Pretrained Language Models for Image Captioning
+	  collapsed:: true
 		- PDF: ![Chen_VisualGPT_Data-Efficient_Adaptation_of_Pretrained_Language_Models_for_Image_Captioning_CVPR_2022_paper.pdf](../assets/Chen_VisualGPT_Data-Efficient_Adaptation_of_Pretrained_Language_Models_for_Image_Captioning_CVPR_2022_paper_1673655325403_0.pdf)
 		- #### Key Ideas
 			- Introduce a new method for adapting pre-trained language models for image captioning tasks with a small amount of data.
@@ -101,6 +112,7 @@
 			- The model is able to leverage the pre-trained GPT-2 model's language understanding capabilities to generate more accurate and informative captions and the visual-language embedding allows it to incorporate visual information for better performance.
 			- The proposed model is able to adapt to new image captioning tasks with a small amount of data, which makes it data-efficient and more practical for real-world applications.
 	- ### Semantic Concepts into End-to-End Image Captioning
+	  collapsed:: true
 		- PDF: ![Fang_Injecting_Semantic_Concepts_Into_End-to-End_Image_Captioning_CVPR_2022_paper.pdf](../assets/Fang_Injecting_Semantic_Concepts_Into_End-to-End_Image_Captioning_CVPR_2022_paper_1673655315188_0.pdf)
 		- #### Key Ideas
 			- Introduce a new method for injecting semantic concepts into end-to-end image captioning models to improve the accuracy and informativeness of the generated captions.
@@ -109,6 +121,7 @@
 			- Show that the proposed model outperforms existing methods on the MS-COCO and Flickr30k datasets in terms of both automatic evaluation metrics and human evaluation.
 			- The proposed model is able to generate more accurate and informative captions by making use of semantic concepts, which provide additional information about the image and guide the caption generation process.
 	- ### Beyond a Pre-Trained Object Detector: Cross-Modal Textual and Visual Context for Image Captioning
+	  collapsed:: true
 		- PDF: ![Kuo_Beyond_a_Pre-Trained_Object_Detector_Cross-Modal_Textual_and_Visual_Context_CVPR_2022_paper.pdf](../assets/Kuo_Beyond_a_Pre-Trained_Object_Detector_Cross-Modal_Textual_and_Visual_Context_CVPR_2022_paper_1673655283262_0.pdf)
 		- #### Key Ideas
 			- Introduce a new method for image captioning that incorporates both visual and textual context to generate more accurate and informative captions.
