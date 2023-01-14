@@ -119,3 +119,4 @@
 			- The proposed model is able to generate accurate captions while reducing computational cost by dynamically adjusting the number of generated words, depending on the confidence of the generated words.
 			- The model is able to generate captions that are as accurate as traditional methods while being more efficient, making it more practical for real-world applications.
 -
+- Test iPad
