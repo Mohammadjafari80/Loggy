@@ -35,6 +35,8 @@
 			- Cross-modal Attention Mechanism: where the model aligns the theme concepts learned from the visual and textual modalities, allowing the model to generate more accurate and informative captions.
 			- Show that the TCIC approach outperforms existing image captioning methods on the MS-COCO dataset in terms of both automatic evaluation metrics and human evaluation.
 			- Show that the TCIC method is able to learn more comprehensive representations of the captions by learning theme concepts that go beyond object recognition and to generate more diverse captions.
+			- ((63c2d570-579a-41a4-8b37-b4b43f2db791))
+			-
 	- ### Automatic Report Generation for Chest X-Ray Images via Adversarial Reinforcement Learning
 		- PDF: ![Automatic_Report_Generation_for_Chest_X-Ray_Images.pdf](../assets/Automatic_Report_Generation_for_Chest_X-Ray_Images_1673655498650_0.pdf)
 		- #### Key Ideas
