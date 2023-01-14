@@ -1,0 +1,59 @@
+file:: [Lecture3-process_1669592302014_0.pdf](../assets/Lecture3-process_1669592302014_0.pdf)
+file-path:: ../assets/Lecture3-process_1669592302014_0.pdf
+
+- [:span]
+  ls-type:: annotation
+  hl-page:: 8
+  hl-color:: blue
+  id:: 6383fa12-2651-4fe7-b6d5-5055f8bf4a43
+  hl-type:: area
+  hl-stamp:: 1669593615134
+- [:span]
+  ls-type:: annotation
+  hl-page:: 10
+  hl-color:: blue
+  id:: 6383fae3-f831-48a1-b792-30b5a3d6cc28
+  hl-type:: area
+  hl-stamp:: 1669593825348
+- [:span]
+  ls-type:: annotation
+  hl-page:: 11
+  hl-color:: blue
+  id:: 6383fc15-84e3-4bdd-b62a-9f559f606988
+  hl-type:: area
+  hl-stamp:: 1669594132151
+- [:span]
+  ls-type:: annotation
+  hl-page:: 15
+  hl-color:: blue
+  id:: 6383fc98-adac-46d6-b658-e3382a56b0f8
+  hl-type:: area
+  hl-stamp:: 1669594262421
+- [:span]
+  ls-type:: annotation
+  hl-page:: 19
+  hl-color:: blue
+  id:: 6383fe5b-daf1-462f-9c50-b54084d32c08
+  hl-type:: area
+  hl-stamp:: 1669594714342
+- [:span]
+  ls-type:: annotation
+  hl-page:: 24
+  hl-color:: blue
+  id:: 638401e9-1fa3-4669-87dc-876dd2c646ab
+  hl-type:: area
+  hl-stamp:: 1669595661605
+- [:span]
+  ls-type:: annotation
+  hl-page:: 33
+  hl-color:: blue
+  id:: 638405f0-636e-4e41-b821-ab687cd70a83
+  hl-type:: area
+  hl-stamp:: 1669596655678
+- [:span]
+  ls-type:: annotation
+  hl-page:: 40
+  hl-color:: blue
+  id:: 63840900-a844-456d-a254-b0688d0470ad
+  hl-type:: area
+  hl-stamp:: 1669597438524

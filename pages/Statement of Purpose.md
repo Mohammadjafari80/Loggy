@@ -1,0 +1,33 @@
+- ![Statement of Purpose (computer)(MIT).pdf](../assets/Statement_of_Purpose_(computer)(MIT)_1669629044803_0.pdf)
+	- I am actively involved in a research project that is
+	  developing an automated system
+	- his project has opened my eyes to a broad range of research in computer graphics and
+	  motivated me to undertake further study through a Ph.D. program
+	- I am open to trying new ideas as well.
+	- These experiences attracted me to various research problems in applications for ...
+	- For these reasons, the EECS department of MIT is especially attractive to me
+	- I am intrigued by several interesting research projects carried on by its faculty members
+	- In particular, Professor Wojciech Matusik’s and ....
+	- I especially enjoyed reading the paper about ...
+	- it would be a privilege to study in the EECS department of MIT under the guidance of its remarkable faculty.
+	- I have enjoyed being able to apply what I learned in classes such as computer graphics and
+	  computational geometry to my research
+	- I seek different kinds of creativity in engineering and art; both come from the persevering effort driven by the will to create something new and better. It is this creative will that I wish to pursue in MIT's Ph.D.
+	- Through my graduate studies, I expect to become, and will work hard to be, an effective researcher and teacher.
+- ![Statement of Purpose Stanford Computer Science PhD program.pdf](../assets/Statement_of_Purpose_Stanford_Computer_Science_PhD_program_1669629055719_0.pdf)
+	- My research goals are oriented towards
+	- In particular, I am drawn towards understanding how recent achievements in ....  can be applied to ...
+	- I am taking courses focused towards
+	- At Stanford, I am interested to work in Professor Fei Fei Li’s Computer Vision Lab
+	- Having talked to Professor Manning’s current PhD students, I understand my research experience in deep reinforcement learning would be of interest in the group.
+	- I believe my research interests, combined with my past relevant experiences and my enthusiasm to work with Professor Chris Manning and Professor Fei Fei Li would provide me the ideal platform to further nurture my interests during the PhD Computer Science program at Stanford University.
+	-
+- ![statement.pdf](../assets/statement_1669629071366_0.pdf)
+	- My long and enjoyable interaction with computer science goes back one and a half decades, to the moment when I first learned to program
+	- Given my background, I believe I am in a good position to make crucial contributions in such pursuits.
+- ## EPFL
+	- expand my horizons, it’s an intensely international institution
+	- engage in research at a global level, it was through research that I was able to immerse myself in real and meaningful challenges.
+	- ill challenge you intellectually, introduce you to countless new cultures and cuisines, and facilitate enormous personal growth. It may very well be the best summer you ever have!
+	- I loved this opportunity to talk to experts in their fields – to broaden my horizon and sometimes to advance my research.
+-
