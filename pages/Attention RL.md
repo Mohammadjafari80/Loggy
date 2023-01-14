@@ -25,6 +25,7 @@
 			- Reduce the time cost of metrics calculation in VCST, we propose fast algorithms for computing the CIDEr-D metric and the BLEU metric. With our fast computing methods, the time costs for computing CIDEr-D and BLEU-4 are reduced by 97% and 72%, respectively.
 			- Show that the VWCA method improves the performance of image captioning models on the MS-COCO dataset, compared to the traditional methods of credit assignment.
 			- Show that the VWCA method is able to generate more diverse captions, and also able to learn from more diverse captions in the training data, which helps the model to learn a more comprehensive representation of the captions.
+			- ((63c2d50f-546e-4992-b02d-2c06411cf1ff))
 	- ### TCIC: Theme Concepts Learning Cross Language and Vision for Image Captioning
 		- PDF: ![2106.10936.pdf](../assets/2106.10936_1673655520797_0.pdf)
 		- #### Key Ideas
