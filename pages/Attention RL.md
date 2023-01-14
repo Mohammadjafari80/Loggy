@@ -16,6 +16,7 @@
 			- Using a multi-level similarity-guided semantic matching approach that captures both global and local semantic similarities between the image and caption to generate more accurate and informative captions.
 			- Proposing a new multi-level similarity-guided semantic matching module that integrates different levels of visual and semantic information to guide the caption generation process.
 			- Showing the effectiveness of the proposed approach through experiments on the MS-COCO dataset and comparing the performance with the state-of-the-art models, achieving better results in both automatic evaluation metrics and human evaluation.
+			- ((63c2d402-559f-4b65-8f44-ab4675b7e73d))
 	- ### Vocabulary-Wide Credit Assignment for Training Image Captioning Models
 		- PDF: ![caption_tip.pdf](../assets/caption_tip_1673655535032_0.pdf)
 		- #### Key Ideas
