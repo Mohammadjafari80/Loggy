@@ -241,7 +241,7 @@
 	- Chapter in book: ((6383f713-b0c4-42b7-b6bd-7e6ea46a9f9a))
 - ^^hi I'm a bitch^^
   query-table:: true
--
+- {{tweet https://twitter.com/mgel8888/status/1614358976178577416?s=20&t=djnmOgeZ-GI_mYy9GmrnHA}}
 -
 -
 -
