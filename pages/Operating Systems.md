@@ -316,9 +316,11 @@
 			- same as previous one but Preemptive.
 		-
 	-
+- Slides:
+- Chapter in book: ((6383f725-0258-47e0-b227-1282c0343442))
 - ## Process Synchronization
 	- Slides: ![Lecture6-process-synch (1).pdf](../assets/Lecture6-process-synch_(1)_1673781522890_0.pdf)
-	- Chapter in book:
+	- Chapter in book: ((63c3e213-b693-48c6-8859-9fe77b4a0e87))
 - ## Deadlocks
 	- Slides: ![Lecture7-deadlocks.pdf](../assets/Lecture7-deadlocks_1673781553932_0.pdf)
 	-

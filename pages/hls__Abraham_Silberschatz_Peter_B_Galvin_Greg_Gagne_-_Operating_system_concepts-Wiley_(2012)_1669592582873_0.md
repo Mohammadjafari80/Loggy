@@ -21,3 +21,18 @@ file-path:: ../assets/Abraham_Silberschatz_Peter_B_Galvin_Greg_Gagne_-_Operating
   hl-page:: 285
   hl-color:: yellow
   id:: 6383f725-0258-47e0-b227-1282c0343442
+- cooperating process 
+  ls-type:: annotation
+  hl-page:: 227
+  hl-color:: yellow
+  id:: 63c3e208-0002-41c7-bb03-e6fb78c4648b
+- Process Synchronization
+  ls-type:: annotation
+  hl-page:: 227
+  hl-color:: yellow
+  id:: 63c3e213-b693-48c6-8859-9fe77b4a0e87
+- Deadlocks
+  ls-type:: annotation
+  hl-page:: 339
+  hl-color:: yellow
+  id:: 63c3e241-73d5-4c4e-b641-8074f98e0902
