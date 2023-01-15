@@ -1,5 +1,5 @@
 - ### Course Info
-	- Course Number: 404241
+	- Course Number: #404241
 	- CW page: https://cw.sharif.edu/course/view.php?id=10984
 	- Professor: [Hossein Asadi](http://sharif.edu/~asadi/)
 	- Units: 3
