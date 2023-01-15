@@ -318,7 +318,7 @@
 	-
 - ## Process Synchronization
 	- Slides: ![Lecture6-process-synch (1).pdf](../assets/Lecture6-process-synch_(1)_1673781522890_0.pdf)
-	-
+	- Chapter in book:
 - ## Deadlocks
 	- Slides: ![Lecture7-deadlocks.pdf](../assets/Lecture7-deadlocks_1673781553932_0.pdf)
 	-
