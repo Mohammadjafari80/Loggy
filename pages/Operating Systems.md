@@ -323,12 +323,13 @@
 	- Chapter in book: ((63c3e213-b693-48c6-8859-9fe77b4a0e87))
 - ## Deadlocks
 	- Slides: ![Lecture7-deadlocks.pdf](../assets/Lecture7-deadlocks_1673781553932_0.pdf)
-	-
+	- Chapter in book: ((63c3e241-73d5-4c4e-b641-8074f98e0902))
 - ## Memory
 	- Slides: ![Lecture8-memory.pdf](../assets/Lecture8-memory_1673781571834_0.pdf)
+	- Chapter in book: ((63c3e262-d750-4b20-8214-d7ad2a47969a))
 - ## Virtual Memory
 	- Slides: ![Lecture9-virtual-memory.pdf](../assets/Lecture9-virtual-memory_1673781599242_0.pdf)
-	-
+	- Chapter in book:
 - ## Mass Storage
 	- Slides: ![Lecture10-mass-storage.pdf](../assets/Lecture10-mass-storage_1673781614911_0.pdf)
 		-
