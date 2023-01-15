@@ -349,3 +349,36 @@
 	- Slides: ![Lecture10-mass-storage.pdf](../assets/Lecture10-mass-storage_1673781614911_0.pdf)
 	- Chapter in book: ((63c3e2a3-5587-4685-aa41-5104d62639b0))
 	-
+- ## Handout
+  collapsed:: true
+	- Introduction:
+		- Operating systems are software that manage the resources of a computer and provide a platform for other programs to run.
+		- Examples of popular operating systems include Windows, MacOS, and Linux.
+	- Structure of OS:
+		- The kernel is the core of the operating system and is responsible for managing system resources such as memory and I/O.
+		- The shell is the interface between the user and the kernel. It provides commands and a command-line interface for interacting with the kernel.
+	- Process:
+		- A process is a program in execution. It has its own memory space and can have multiple threads.
+		- Processes can be in various states such as running, waiting, and blocked.
+	- Thread:
+		- A thread is a lightweight version of a process and shares the same memory space as the process.
+		- Threads can run concurrently and can improve the performance of a program.
+	- CPU Scheduling:
+		- CPU scheduling is the process of determining which process should be executed by the CPU.
+		- There are various algorithms such as First-Come First-Served (FCFS), Shortest Job Next (SJN), and Round Robin (RR) that can be used for scheduling.
+	- Process Synchronization:
+		- Process synchronization is the process of coordinating the execution of multiple processes to avoid conflicts and race conditions.
+		- Semaphores and monitors are examples of methods used for process synchronization.
+	- Deadlocks:
+		- Deadlocks occur when two or more processes are unable to proceed because each is waiting for one of the others to release a resource.
+		- Deadlock prevention and detection algorithms can be used to avoid or resolve deadlocks.
+	- Memory:
+		- Memory is the storage area where data and instructions are kept for immediate use by the CPU.
+		- Main memory, also known as RAM, is volatile and data is lost when the power is turned off.
+	- Virtual Memory:
+		- Virtual memory is a technique that allows a computer to use more memory than is physically available by swapping data between RAM and a hard disk.
+		- This allows a computer to run larger programs or multiple programs at the same time.
+	- Mass Storage:
+		- Mass storage is the long-term storage of data on a computer.
+		- Examples of mass storage devices include hard drives and flash drives.
+-
