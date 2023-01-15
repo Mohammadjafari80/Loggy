@@ -14,6 +14,7 @@
 	- Slides: ![Lecture2-os-structure.pdf](../assets/Lecture2-os-structure_1669592272306_0.pdf)
 	- Chapter in book: ((6383f67f-f470-4181-9fb1-a0c88e89ce14))
 - ## Process
+  background-color:: red
   collapsed:: true
 	- Slides: ![Lecture3-process.pdf](../assets/Lecture3-process_1669592302014_0.pdf)
 	- Chapter in book: ((6383f6f9-b367-4d7f-af48-f044aaf0aac1))
@@ -242,11 +243,13 @@
 			-
 	-
 - ## Thread
+  background-color:: red
   collapsed:: true
 	- Slides: ![Lecture4-thread.pdf](../assets/Lecture4-thread_1669592372464_0.pdf)
 	- Chapter in book: ((6383f713-b0c4-42b7-b6bd-7e6ea46a9f9a))
 - ## CPU Scheduling
   collapsed:: true
+  background-color:: red
 	- Slides: ![Lecture5-cpu-scheduling.pdf](../assets/Lecture5-cpu-scheduling_1669592386915_0.pdf)
 	- Chapter in book: ((6383f725-0258-47e0-b227-1282c0343442))
 	- ### Basic Concepts
@@ -320,23 +323,29 @@
 		-
 	-
 - ## Process Synchronization
+  background-color:: red
   collapsed:: true
 	- Slides: ![Lecture6-process-synch (1).pdf](../assets/Lecture6-process-synch_(1)_1673781522890_0.pdf)
 	- Chapter in book: ((63c3e213-b693-48c6-8859-9fe77b4a0e87))
 - ## Deadlocks
+  background-color:: red
   collapsed:: true
 	- Slides: ![Lecture7-deadlocks.pdf](../assets/Lecture7-deadlocks_1673781553932_0.pdf)
 	- Chapter in book: ((63c3e241-73d5-4c4e-b641-8074f98e0902))
 	- Deadlocks
 - ## Memory
+  background-color:: green
   collapsed:: true
 	- Slides: ![Lecture8-memory.pdf](../assets/Lecture8-memory_1673781571834_0.pdf)
 	- Chapter in book: ((63c3e262-d750-4b20-8214-d7ad2a47969a))
 - ## Virtual Memory
+  background-color:: green
   collapsed:: true
 	- Slides: ![Lecture9-virtual-memory.pdf](../assets/Lecture9-virtual-memory_1673781599242_0.pdf)
 	- Chapter in book: ((63c3e285-46c4-42d3-ab7d-4ca5bb4111e3))
 - ## Mass Storage
+  background-color:: blue
+  collapsed:: true
 	- Slides: ![Lecture10-mass-storage.pdf](../assets/Lecture10-mass-storage_1673781614911_0.pdf)
 	- Chapter in book: ((63c3e2a3-5587-4685-aa41-5104d62639b0))
 	-
