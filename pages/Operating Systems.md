@@ -396,7 +396,7 @@
 		- A process is a self-contained execution environment and can be thought of as a program or task.
 		- Each process has its own address space, system resources (such as open files and network connections), and a unique process identifier (PID).
 		- Processes can be in various states such as running, waiting, and blocked.
-	- ###Thread:
+	- ### Thread:
 		- A thread is a lightweight version of a process and shares the same memory space as the process.
 		- Threads can run concurrently and can improve the performance of a program by allowing multiple tasks to be executed in parallel.
 		- Threads are sometimes called lightweight processes and they do not require their own address space.
