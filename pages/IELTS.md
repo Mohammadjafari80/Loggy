@@ -8,7 +8,8 @@
 - ## Listening
 - ## Speaking
 - ## Reading
-- ## Vocab
+- ## Vocabulary
 	- [(2013) Timothy Dickeson - IELTS High Score Vocabulary List (2012) (1).mobi](../assets/(2013)_Timothy_Dickeson_-_IELTS_High_Score_Vocabulary_List_(2012)_(1)_1673742518128_0.mobi)
 	- ![Rachel Mitchell - Shortcut to English Collocations_ Master 2000+ English Collocations in Used Explained Under 20 Minutes a Day-Independently Published (2017).pdf](../assets/Rachel_Mitchell_-_Shortcut_to_English_Collocations_Master_2000+_English_Collocations_in_Used_Explained_Under_20_Minutes_a_Day-Independently_Published_(2017)_1673742529626_0.pdf)
 		-
+-
