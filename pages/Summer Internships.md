@@ -49,6 +49,7 @@
 		- Image processing
 		- Machine learning
 		- Data science
+		  id:: 63c1f95b-536e-470f-a0f9-9c7961bc04d7
 	-
 	- ### Labs
 		-
