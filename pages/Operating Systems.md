@@ -4,10 +4,12 @@
 	- Professor: [Hossein Asadi](http://sharif.edu/~asadi/)
 	- Units: 3
 	- Source book: ![Operating System Concepts](../assets/Abraham_Silberschatz_Peter_B_Galvin_Greg_Gagne_-_Operating_system_concepts-Wiley_(2012)_1669592582873_0.pdf)
-- ## #c-red ^^Introduction^^
+- ##  Introduction
+  background-color:: yellow
   collapsed:: true
 	- Slides: ![Lecture1-intro.pdf](../assets/Lecture1-intro_1669592229275_0.pdf)
 - ## OS Structure
+  background-color:: yellow
   collapsed:: true
 	- Slides: ![Lecture2-os-structure.pdf](../assets/Lecture2-os-structure_1669592272306_0.pdf)
 	- Chapter in book: ((6383f67f-f470-4181-9fb1-a0c88e89ce14))
@@ -325,6 +327,7 @@
   collapsed:: true
 	- Slides: ![Lecture7-deadlocks.pdf](../assets/Lecture7-deadlocks_1673781553932_0.pdf)
 	- Chapter in book: ((63c3e241-73d5-4c4e-b641-8074f98e0902))
+	- Deadlocks
 - ## Memory
   collapsed:: true
 	- Slides: ![Lecture8-memory.pdf](../assets/Lecture8-memory_1673781571834_0.pdf)
