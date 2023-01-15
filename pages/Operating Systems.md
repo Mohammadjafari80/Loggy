@@ -411,22 +411,18 @@
 		-
 		- terminates
 	- ### Process Synchronization:
-	- Process synchronization is the process of coordinating the execution of multiple processes to avoid conflicts and race conditions.
-	- Semaphores and monitors are examples of methods used for process synchronization.
-	- Semaphores are integer variables that are used to solve the critical section problem and to achieve process synchronization in the multi-process environment.
-	- Monitors provide a mechanism for process synchronization in a multitasking environment.
-	- ## 7. Deadlocks:
-	- Deadlocks occur when two or more processes are unable to proceed because each is waiting for one of the others to release a resource.
-	- Deadlock prevention and detection algorithms can be used to avoid or resolve deadlocks.
-	- Deadlocks can be avoided by using:
-	-
-	- Time-out
-	-
-	- Preemption
-	-
-	- Avoidance algorithms
-	-
-	- Detection and recovery
-	- ## 8. Memory:
-	- Memory is the storage area where data and instructions are kept for immediate use by the CPU.
-	- Main memory, also known as RAM, is volatile and data is lost when the power is turned
+		- Process synchronization is the process of coordinating the execution of multiple processes to avoid conflicts and race conditions.
+		- Semaphores and monitors are examples of methods used for process synchronization.
+		- Semaphores are integer variables that are used to solve the critical section problem and to achieve process synchronization in the multi-process environment.
+		- Monitors provide a mechanism for process synchronization in a multitasking environment.
+	- ### Deadlocks:
+		- Deadlocks occur when two or more processes are unable to proceed because each is waiting for one of the others to release a resource.
+		- Deadlock prevention and detection algorithms can be used to avoid or resolve deadlocks.
+		- Deadlocks can be avoided by using:
+			- Time-out
+			- Preemption
+			- Avoidance algorithms
+			- Detection and recovery
+	- ### Memory:
+		- Memory is the storage area where data and instructions are kept for immediate use by the CPU.
+		- Main memory, also known as RAM, is volatile and data is lost when the power is turned
