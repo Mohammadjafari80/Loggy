@@ -5,11 +5,14 @@
 	- Units: 3
 	- Source book: ![Operating System Concepts](../assets/Abraham_Silberschatz_Peter_B_Galvin_Greg_Gagne_-_Operating_system_concepts-Wiley_(2012)_1669592582873_0.pdf)
 - ## Introduction
+  collapsed:: true
 	- Slides: ![Lecture1-intro.pdf](../assets/Lecture1-intro_1669592229275_0.pdf)
 - ## OS Structure
+  collapsed:: true
 	- Slides: ![Lecture2-os-structure.pdf](../assets/Lecture2-os-structure_1669592272306_0.pdf)
 	- Chapter in book: ((6383f67f-f470-4181-9fb1-a0c88e89ce14))
 - ## Process
+  collapsed:: true
 	- Slides: ![Lecture3-process.pdf](../assets/Lecture3-process_1669592302014_0.pdf)
 	- Chapter in book: ((6383f6f9-b367-4d7f-af48-f044aaf0aac1))
 	- ### Process Concept
@@ -237,13 +240,9 @@
 			-
 	-
 - ## Thread
+  collapsed:: true
 	- Slides: ![Lecture4-thread.pdf](../assets/Lecture4-thread_1669592372464_0.pdf)
 	- Chapter in book: ((6383f713-b0c4-42b7-b6bd-7e6ea46a9f9a))
-- /zotero
-  query-table:: true
-- {{video https://www.youtube.com/watch?v=Y2Tna77k1aI}}
--
--
 -
 - ## CPU Scheduling
   collapsed:: true
