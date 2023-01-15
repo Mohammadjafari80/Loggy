@@ -400,17 +400,17 @@
 		- A thread is a lightweight version of a process and shares the same memory space as the process.
 		- Threads can run concurrently and can improve the performance of a program by allowing multiple tasks to be executed in parallel.
 		- Threads are sometimes called lightweight processes and they do not require their own address space.
-	- ## 5. CPU Scheduling:
-	- CPU scheduling is the process of determining which process should be executed by the CPU.
-	- There are various algorithms such as First-Come First-Served (FCFS), Shortest Job Next (SJN), and Round Robin (RR) that can be used for scheduling.
-	- CPU scheduling decisions may take place when a process:
-	-
-	- switches from running state to waiting state (for example, requesting I/O)
-	-
-	- switches from running state to ready state (for example, being preempted by another process with a higher priority)
-	-
-	- terminates
-	- ## 6. Process Synchronization:
+	- ### CPU Scheduling:
+		- CPU scheduling is the process of determining which process should be executed by the CPU.
+		- There are various algorithms such as First-Come First-Served (FCFS), Shortest Job Next (SJN), and Round Robin (RR) that can be used for scheduling.
+		- CPU scheduling decisions may take place when a process:
+		-
+		- switches from running state to waiting state (for example, requesting I/O)
+		-
+		- switches from running state to ready state (for example, being preempted by another process with a higher priority)
+		-
+		- terminates
+	- ### Process Synchronization:
 	- Process synchronization is the process of coordinating the execution of multiple processes to avoid conflicts and race conditions.
 	- Semaphores and monitors are examples of methods used for process synchronization.
 	- Semaphores are integer variables that are used to solve the critical section problem and to achieve process synchronization in the multi-process environment.
