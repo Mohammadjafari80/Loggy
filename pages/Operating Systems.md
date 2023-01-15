@@ -334,7 +334,6 @@
 	- Slides: ![Lecture9-virtual-memory.pdf](../assets/Lecture9-virtual-memory_1673781599242_0.pdf)
 	- Chapter in book: ((63c3e285-46c4-42d3-ab7d-4ca5bb4111e3))
 - ## Mass Storage
-  collapsed:: true
 	- Slides: ![Lecture10-mass-storage.pdf](../assets/Lecture10-mass-storage_1673781614911_0.pdf)
 	- Chapter in book: ((63c3e2a3-5587-4685-aa41-5104d62639b0))
--
+	-
