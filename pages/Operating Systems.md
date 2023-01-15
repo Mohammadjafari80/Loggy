@@ -425,4 +425,17 @@
 			- Detection and recovery
 	- ### Memory:
 		- Memory is the storage area where data and instructions are kept for immediate use by the CPU.
-		- Main memory, also known as RAM, is volatile and data is lost when the power is turned
+		- Main memory, also known as RAM, is volatile and data is lost when the power is turned off.
+		- Secondary memory, such as hard disks, is non-volatile and stores data even when the power is turned off.
+		- Memory management is the process of allocating and deallocating memory as needed by processes.
+	- ### Virtual Memory:
+		- Virtual memory is a technique that allows a computer to use more memory than is physically available by swapping data between RAM and a hard disk.
+		- This allows a computer to run larger programs or multiple programs at the same time.
+		- Virtual memory provides an abstraction of the main memory, making it appear that each process has its own private memory space.
+		- The operating system uses paging or segmentation to manage virtual memory.
+	- ### Mass Storage:
+		- Mass storage refers to the long-term storage of data on a computer.
+		- Examples of mass storage devices include hard drives, flash drives, and solid-state drives.
+		- Mass storage devices are typically slower than main memory but have much larger storage capacity.
+		- The file system, which is a part of the operating system, is responsible for organizing and managing files on mass storage devices.
+-
