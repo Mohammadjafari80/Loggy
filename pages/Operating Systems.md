@@ -317,4 +317,7 @@
 			- same as previous one but Preemptive.
 		-
 	-
-- ##
+- ## Process Synchronization
+- ## Deadlocks
+- ## Memory
+- ##V
