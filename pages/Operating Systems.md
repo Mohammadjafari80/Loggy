@@ -323,7 +323,10 @@
 	- Slides: ![Lecture7-deadlocks.pdf](../assets/Lecture7-deadlocks_1673781553932_0.pdf)
 	-
 - ## Memory
-	-
+	- Slides: ![Lecture8-memory.pdf](../assets/Lecture8-memory_1673781571834_0.pdf)
 - ## Virtual Memory
+	- Slides: ![Lecture9-virtual-memory.pdf](../assets/Lecture9-virtual-memory_1673781599242_0.pdf)
+	-
 - ## Mass Storage
--
+	- Slides: ![Lecture10-mass-storage.pdf](../assets/Lecture10-mass-storage_1673781614911_0.pdf)
+		-
