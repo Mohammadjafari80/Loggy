@@ -239,7 +239,10 @@
 - ## Thread
 	- Slides: ![Lecture4-thread.pdf](../assets/Lecture4-thread_1669592372464_0.pdf)
 	- Chapter in book: ((6383f713-b0c4-42b7-b6bd-7e6ea46a9f9a))
--
+- query-table:: true
+  #+BEGIN_QUERY
+  from A take B
+  #+END_QUERY
 -
 -
 -
