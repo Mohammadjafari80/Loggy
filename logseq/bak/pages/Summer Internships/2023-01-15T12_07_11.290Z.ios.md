@@ -1,0 +1,80 @@
+- ## EPFL (Excellence Research Internship Program)
+	- Ma NEmitoonim
+	- https://www.epfl.ch/education/international/en/coming-to-epfl/research-internships/
+	- Deadline:
+	- ### Labs
+		- https://www.epfl.ch/labs/cvlab/
+		- https://www.epfl.ch/labs/tml/theory-of-machine-learning/research/adversarial-robustness/
+		- https://www.epfl.ch/labs/ivrl/
+		- https://www.epfl.ch/labs/mlo/
+		- https://lgg.epfl.ch/
+		- http://dlab.epfl.ch/
+		- https://miplab.epfl.ch/
+		-
+- ## Summer@EPFL
+	- https://summer.epfl.ch/apply.html
+	- **Deadline**: **4th December 2022 (AOE)**
+	- Results until **25th JANUARY**.
+	- Fellowship period:
+		- About three months, usually between **MAY** to **SEPTEMBER** (flexible).
+		  Period agreed directly with the hosting lab.
+	- ### Labs
+		- https://www.epfl.ch/labs/tml/
+			- [Adversarial machine learning](https://www.epfl.ch/labs/tml/theory-of-machine-learning/research/adversarial-robustness/)
+		- https://www.epfl.ch/labs/cvlab/
+			- https://www.epfl.ch/labs/cvlab/research/domain-adaptation/
+		- https://www.epfl.ch/labs/ivrl/
+			- Adversarial Attack
+			- https://www.epfl.ch/labs/ivrl/research/inpainting/
+			- https://www.epfl.ch/labs/ivrl/research/saliency/
+			- https://www.epfl.ch/labs/ivrl/research/aesthetics/
+			- https://www.epfl.ch/labs/ivrl/research/hdr-cfa/
+		- https://www.epfl.ch/labs/mlo/
+			- not my shit. you know!
+		- https://dlab.epfl.ch/
+			- not interested
+		- https://vilab.epfl.ch/
+			- https://vilab.epfl.ch/#contact
+		- https://www.epfl.ch/labs/vita/
+	- ### Domains
+		- https://www.epfl.ch/schools/ic/research/artificial-intelligence-machine-learning/
+		- https://www.epfl.ch/schools/ic/research/data-management-information-retrieval/
+		- https://www.epfl.ch/schools/ic/research/signal-image-processing/
+		- https://www.epfl.ch/schools/ic/research/visual-computing/
+- ## E3
+	- https://eee.epfl.ch/apply/
+	- **Deadline**: December 1st 2022 (23h55 Anywhere on Earth)!
+	- Results until mid-March 2023
+	- ### Domains
+		- Image processing
+		- Machine learning
+		- Data science
+	-
+	- ### Labs
+		-
+- ## ETH Zurich
+	- https://inf.ethz.ch/studies/summer-research-fellowship/how-to-appy.html
+	- **Deadline**: 15 December at 13:00 (Central European Time)
+	- **Duration of the programme:** The programme will take place from 1 July – 31 August.
+	- https://inf.ethz.ch/people/faculty.html
+	- https://inf.ethz.ch/research.html
+	- ### Professors
+		- https://odi.inf.ethz.ch/niaohe.html
+		- https://people.inf.ethz.ch/pomarc/
+		- http://boevalab.inf.ethz.ch/teaching.html#projects
+		- https://ait.ethz.ch/people/hilliges/
+		- Implicit Neural Representations and 3D shape modeling and processing.
+		- https://studios.disneyresearch.com/people/bob-sumner/
+		- [Computer Vision and Learning Group.](https://vlg.inf.ethz.ch)
+		- [Interactive Geometry Lab](https://igl.ethz.ch/)
+		- [SIPLAB](https://siplab.org/)
+		- [Secure, Robust and Reliable Machine Learning](https://www.sri.inf.ethz.ch/research/safeai) SRILAB
+		-
+		-
+- ## [Ecole Polytechnique](http://www.polytechnique.fr/)
+	- https://programmes.polytechnique.edu/en/exchange-programs/internship-program-for-international-students/program-details
+	- ![L'X - Academic Exchange Program - Fact Sheet 2023.pdf](../assets/L'X_-_Academic_Exchange_Program_-_Fact_Sheet_2023_1671155978394_0.pdf)
+	-
+- https://cpsc.yale.edu/research-internship-program
+- https://cs.hse.ru/en/internships/
+- https://phd.pages.ist.ac.at/isternship/
