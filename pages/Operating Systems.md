@@ -382,6 +382,7 @@
 		- Mass storage is the long-term storage of data on a computer.
 		- Examples of mass storage devices include hard drives and flash drives.
 - ## Notes
+  collapsed:: true
 	- ### Introduction:
 		- An operating system (OS) is a collection of software that manages computer hardware resources and provides common services for computer programs.
 		- The operating system is the most important type of system software in a computer system.
@@ -404,12 +405,9 @@
 		- CPU scheduling is the process of determining which process should be executed by the CPU.
 		- There are various algorithms such as First-Come First-Served (FCFS), Shortest Job Next (SJN), and Round Robin (RR) that can be used for scheduling.
 		- CPU scheduling decisions may take place when a process:
-		-
-		- switches from running state to waiting state (for example, requesting I/O)
-		-
-		- switches from running state to ready state (for example, being preempted by another process with a higher priority)
-		-
-		- terminates
+			- switches from running state to waiting state (for example, requesting I/O)
+			- switches from running state to ready state (for example, being preempted by another process with a higher priority)
+			- terminates
 	- ### Process Synchronization:
 		- Process synchronization is the process of coordinating the execution of multiple processes to avoid conflicts and race conditions.
 		- Semaphores and monitors are examples of methods used for process synchronization.
