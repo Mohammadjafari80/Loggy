@@ -381,4 +381,52 @@
 	- Mass Storage:
 		- Mass storage is the long-term storage of data on a computer.
 		- Examples of mass storage devices include hard drives and flash drives.
--
+- ## Notes
+	- ## 1. Introduction:
+	- An operating system (OS) is a collection of software that manages computer hardware resources and provides common services for computer programs.
+	- The operating system is the most important type of system software in a computer system.
+	- The operating system acts as a host for application programs that are run on the machine.
+	- OS acts as a manager of other programs that you run on your computer. It is responsible for allocating and deallocating hardware and software resources as needed.
+	- ## 2. Structure of OS:
+	- The structure of an operating system can be divided into two main components: the kernel and the shell.
+	- The kernel is the central part of the operating system that controls all system resources, such as memory and input/output operations.
+	- The shell is the interface between the user and the kernel. It provides a command-line interface for interacting with the kernel and executing commands
+	- ## 3. Process:
+	- A process is a program in execution. It has its own memory space and can have multiple threads.
+	- A process is a self-contained execution environment and can be thought of as a program or task.
+	- Each process has its own address space, system resources (such as open files and network connections), and a unique process identifier (PID).
+	- Processes can be in various states such as running, waiting, and blocked.
+	- ## 4. Thread:
+	- A thread is a lightweight version of a process and shares the same memory space as the process.
+	- Threads can run concurrently and can improve the performance of a program by allowing multiple tasks to be executed in parallel.
+	- Threads are sometimes called lightweight processes and they do not require their own address space.
+	- ## 5. CPU Scheduling:
+	- CPU scheduling is the process of determining which process should be executed by the CPU.
+	- There are various algorithms such as First-Come First-Served (FCFS), Shortest Job Next (SJN), and Round Robin (RR) that can be used for scheduling.
+	- CPU scheduling decisions may take place when a process:
+	-
+	- switches from running state to waiting state (for example, requesting I/O)
+	-
+	- switches from running state to ready state (for example, being preempted by another process with a higher priority)
+	-
+	- terminates
+	- ## 6. Process Synchronization:
+	- Process synchronization is the process of coordinating the execution of multiple processes to avoid conflicts and race conditions.
+	- Semaphores and monitors are examples of methods used for process synchronization.
+	- Semaphores are integer variables that are used to solve the critical section problem and to achieve process synchronization in the multi-process environment.
+	- Monitors provide a mechanism for process synchronization in a multitasking environment.
+	- ## 7. Deadlocks:
+	- Deadlocks occur when two or more processes are unable to proceed because each is waiting for one of the others to release a resource.
+	- Deadlock prevention and detection algorithms can be used to avoid or resolve deadlocks.
+	- Deadlocks can be avoided by using:
+	-
+	- Time-out
+	-
+	- Preemption
+	-
+	- Avoidance algorithms
+	-
+	- Detection and recovery
+	- ## 8. Memory:
+	- Memory is the storage area where data and instructions are kept for immediate use by the CPU.
+	- Main memory, also known as RAM, is volatile and data is lost when the power is turned
