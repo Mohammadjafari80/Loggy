@@ -41,3 +41,13 @@ file-path:: ../assets/Abraham_Silberschatz_Peter_B_Galvin_Greg_Gagne_-_Operating
   hl-page:: 375
   hl-color:: yellow
   id:: 63c3e262-d750-4b20-8214-d7ad2a47969a
+- Virtual Memory
+  ls-type:: annotation
+  hl-page:: 421
+  hl-color:: yellow
+  id:: 63c3e285-46c4-42d3-ab7d-4ca5bb4111e3
+- Mass -Storage Structure
+  ls-type:: annotation
+  hl-page:: 491
+  hl-color:: yellow
+  id:: 63c3e2a3-5587-4685-aa41-5104d62639b0
