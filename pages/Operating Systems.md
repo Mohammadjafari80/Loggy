@@ -436,4 +436,4 @@
 		- Examples of mass storage devices include hard drives, flash drives, and solid-state drives.
 		- Mass storage devices are typically slower than main memory but have much larger storage capacity.
 		- The file system, which is a part of the operating system, is responsible for organizing and managing files on mass storage devices.
-- l
+- ltt
