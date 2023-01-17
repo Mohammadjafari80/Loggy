@@ -6,16 +6,13 @@
 	- Source book: ![Operating System Concepts](../assets/Abraham_Silberschatz_Peter_B_Galvin_Greg_Gagne_-_Operating_system_concepts-Wiley_(2012)_1669592582873_0.pdf)
 - ##  Introduction
   background-color:: yellow
-  collapsed:: true
 	- Slides: ![Lecture1-intro.pdf](../assets/Lecture1-intro_1669592229275_0.pdf)
 - ## OS Structure
   background-color:: yellow
-  collapsed:: true
 	- Slides: ![Lecture2-os-structure.pdf](../assets/Lecture2-os-structure_1669592272306_0.pdf)
 	- Chapter in book: ((6383f67f-f470-4181-9fb1-a0c88e89ce14))
 - ## Process
   background-color:: red
-  collapsed:: true
 	- Slides: ![Lecture3-process.pdf](../assets/Lecture3-process_1669592302014_0.pdf)
 	- Chapter in book: ((6383f6f9-b367-4d7f-af48-f044aaf0aac1))
 	- ### Process Concept
@@ -244,7 +241,6 @@
 	-
 - ## Thread
   background-color:: red
-  collapsed:: true
 	- Slides: ![Lecture4-thread.pdf](../assets/Lecture4-thread_1669592372464_0.pdf)
 	- Chapter in book: ((6383f713-b0c4-42b7-b6bd-7e6ea46a9f9a))
 - ## CPU Scheduling
@@ -323,7 +319,6 @@
 	-
 - ## Process Synchronization
   background-color:: red
-  collapsed:: true
 	- Slides: ![Lecture6-process-synch (1).pdf](../assets/Lecture6-process-synch_(1)_1673781522890_0.pdf)
 	- Chapter in book: ((63c3e213-b693-48c6-8859-9fe77b4a0e87))
 - ## Deadlocks
