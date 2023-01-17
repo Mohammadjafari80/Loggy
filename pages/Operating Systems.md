@@ -248,7 +248,6 @@
 	- Slides: ![Lecture4-thread.pdf](../assets/Lecture4-thread_1669592372464_0.pdf)
 	- Chapter in book: ((6383f713-b0c4-42b7-b6bd-7e6ea46a9f9a))
 - ## CPU Scheduling
-  collapsed:: true
   background-color:: red
 	- Slides: ![Lecture5-cpu-scheduling.pdf](../assets/Lecture5-cpu-scheduling_1669592386915_0.pdf)
 	- Chapter in book: ((6383f725-0258-47e0-b227-1282c0343442))
