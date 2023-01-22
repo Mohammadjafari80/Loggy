@@ -86,7 +86,7 @@
 			- The model uses a novel consensus-oriented loss function, which is designed to encourage the model to generate captions that are similar to the human-generated captions.
 			- Show that the proposed model outperforms existing methods on the MS-COCO and Flickr30k datasets in terms of both automatic evaluation metrics and human evaluation.
 			- The proposed model is able to generate captions that are more similar to human-generated captions and aligns with human consensus, which makes the generated captions more accurate, informative, and natural.
-	- ### S2 Transformer for Image Captioning
+	- ### S2 Transformer for Image Captioning - **
 		- PDF: ![0224.pdf](../assets/0224_1673655341944_0.pdf)
 		- #### Key Ideas
 			- Introduce a new method for image captioning that uses the S2 Transformer architecture.
