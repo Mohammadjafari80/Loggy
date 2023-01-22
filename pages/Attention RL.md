@@ -68,7 +68,7 @@
 			- The reward function is used to evaluate the quality of the generated captions, and is used to guide the learning of the policies.
 			- Show that the proposed multi-level RL-based model outperforms existing methods on the MS-COCO dataset in terms of both automatic evaluation metrics and human evaluation.
 			- The proposed model is able to generate more accurate and informative captions by making use of the multi-level policy and reward structure, which allows for a more fine-grained control of the caption generation process.
-	- ### Remote sensing image captioning via Variational Autoencoder and Reinforcement Learning
+	- ### Remote sensing image captioning via Variational Autoencoder and Reinforcement Learning  - **
 		- PDF: ![shen2020.pdf](../assets/shen2020_1673655383571_0.pdf)
 		- #### Key Ideas
 			- Introduce a new method for remote sensing image captioning that combines the use of Variational Autoencoder (VAE) and Reinforcement Learning (RL).
