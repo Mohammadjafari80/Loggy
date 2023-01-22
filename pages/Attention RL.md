@@ -94,8 +94,10 @@
 			- The S2 Transformer-based model is trained to generate captions for images by aligning the image and text representations using self-attention mechanisms.
 			- Show that the proposed S2 Transformer-based model outperforms existing methods on the MS-COCO dataset in terms of both automatic evaluation metrics and human evaluation.
 			- The proposed model is able to generate more accurate and informative captions by making use of the S2 Transformer architecture, which allows for better handling of variable-length sequences and more fine-grained control of the caption generation process.
-	- ### VisualGPT: Data-Efficient Adaptation of Pretrained Language Models for Image Captioning
+	- ### VisualGPT: Data-Efficient Adaptation of Pretrained Language Models for Image Captioning - **
 		- PDF: ![Chen_VisualGPT_Data-Efficient_Adaptation_of_Pretrained_Language_Models_for_Image_Captioning_CVPR_2022_paper.pdf](../assets/Chen_VisualGPT_Data-Efficient_Adaptation_of_Pretrained_Language_Models_for_Image_Captioning_CVPR_2022_paper_1673655325403_0.pdf)
+		- #### Take aways
+			- SRAU module may work well.
 		- #### Key Ideas
 			- Introduce a new method for adapting pre-trained language models for image captioning tasks with a small amount of data.
 			- Propose a new model called VisualGPT that fine-tunes a pre-trained GPT-2 model on image captioning datasets by incorporating visual information through a visual-language embedding.
