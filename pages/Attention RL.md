@@ -1,6 +1,8 @@
 - ## Literature Review
 	- ### Partial Off-policy Learning: Balance Accuracy and Diversity for Human-Oriented Image Captioning
 		- PDF: ![Shi_Partial_Off-Policy_Learning_Balance_Accuracy_and_Diversity_for_Human-Oriented_Image_ICCV_2021_paper.pdf](../assets/Shi_Partial_Off-Policy_Learning_Balance_Accuracy_and_Diversity_for_Human-Oriented_Image_ICCV_2021_paper_1673655569300_0.pdf)
+		- ### Take Aways
+			- use q for exploration
 		- #### Key Ideas
 			- Introduce a new method for image captioning called Partial Off-policy Learning (POL) that balance the accuracy and diversity of the generated captions.
 			- Propose a new model that uses off-policy learning to improve the diversity of the generated captions, while still maintaining their accuracy.
